@@ -83,7 +83,7 @@ Explain the different types of testing (unit, integration, system, and acceptanc
   - System Testing: Testing the entire software system as a whole.
   - Acceptance Testing: Testing the software against user requirements to ensure it 
     meets user needs.
-   > Importance of Testing: Testing is a critical aspect of QA and involves various 
+  -> Importance of Testing - Testing is a critical aspect of QA and involves various 
     types of testing, including:
 
 
