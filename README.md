@@ -39,14 +39,16 @@ List and briefly explain the phases of the Software Development Life Cycle.
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
-     - Waterfall: Sequential approach with distinct phases e.g., requirements, design, 
-       implementation, testing, maintenance flowing downwards like a waterfall.
-       Example: Suitable for projects with stable and well-defined requirements, such as 
-       government contracts or infrastructure projects.
-     - Agile: Iterative and incremental approach focused on flexibility, collaboration, 
-       and responding to change.
-       Example: Ideal for projects with evolving or unclear requirements, like software 
-       startups developing innovative products.
+  
+ - Waterfall: Sequential approach with distinct phases e.g., requirements, design, 
+   implementation, testing, maintenance flowing downwards like a waterfall.
+   Example: Suitable for projects with stable and well-defined requirements, such as 
+   government contracts or infrastructure projects.
+   
+ - Agile: Iterative and incremental approach focused on flexibility, collaboration, 
+   and responding to change.
+   Example: Ideal for projects with evolving or unclear requirements, like software 
+   startups developing innovative products.
 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
